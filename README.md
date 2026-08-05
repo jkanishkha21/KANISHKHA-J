@@ -40,3 +40,9 @@ I enjoy building projects, solving problems, and sharing my learning journey thr
 # Data Analysis Case Studies
 - Business-focused data analysis projects using Python libraries and data visualization tools.
 - Exploring insights from datasets through analysis and visualization.
+  Certificates & Achievements
+
+-  Python Programming Certificate - Completed Python training with 96% score.
+-  Internal Hackathon Project - Developed "Life Trace: Smart Emergency Location Alert System".
+-  Data Visualization Skills - Hands-on experience with Power BI, Tableau, and Excel.
+-  Technical Writing - Publishing articles on Medium about technology and personal growth.
