@@ -46,3 +46,8 @@ I enjoy building projects, solving problems, and sharing my learning journey thr
 -  Internal Hackathon Project - Developed "Life Trace: Smart Emergency Location Alert System".
 -  Data Visualization Skills - Hands-on experience with Power BI, Tableau, and Excel.
 -  Technical Writing - Publishing articles on Medium about technology and personal growth.
+# Connect With Me
+
+- LinkedIn: www.linkedin.com/in/kanishkha-j-832291362
+- Medium: https://medium.com/@jkanishkha21
+  
