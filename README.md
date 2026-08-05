@@ -26,3 +26,17 @@ I enjoy building projects, solving problems, and sharing my learning journey thr
 - Artificial Intelligence
 - Data Science
 - Software Development
+# Projects
+
+# Life Trace - Smart Emergency Location Alert System
+- An emergency alert system designed to share location details with trusted contacts during critical situations.
+- Features include GPS-based location sharing, voice confirmation, and smart tracking concepts.
+- Developed as part of a hackathon project.
+
+# Python Programming Projects
+- Collection of Python programs and practice implementations.
+- Includes sorting algorithms, searching algorithms, mathematical methods, and problem-solving exercises.
+
+# Data Analysis Case Studies
+- Business-focused data analysis projects using Python libraries and data visualization tools.
+- Exploring insights from datasets through analysis and visualization.
